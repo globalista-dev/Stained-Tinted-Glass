@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stglass:block/light_gray_stained_tinted_glass"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#B#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:brown_stained_glass"
+    }
+  },
+  "result": {
+    "item": "stglass:brown_stained_tinted_glass",
+    "count": 1
+  }
+}
